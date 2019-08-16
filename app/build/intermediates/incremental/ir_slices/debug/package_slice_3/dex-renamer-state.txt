@@ -1,0 +1,4 @@
+#Thu Aug 15 23:50:19 GFT 2019
+base.0=C\:\\Users\\Anderson\\AndroidStudioProjects\\KtlProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
